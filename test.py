@@ -1,4 +1,3 @@
-try:
-    print(int("r"))
-except ValueError:
-    print("na")
+mylist = ["tester", "test"]
+
+print(mylist.count("test"))
